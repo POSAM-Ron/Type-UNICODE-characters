@@ -1,12 +1,16 @@
-# Type-UNICODE-characters
-* The following script combines 3 individual scripts which >
 
-1) send fractions
-2) send Greek letters
-3) send math symbols
+The following script combines 3 individual scripts which
 
-to your text editor or word processor * Convenient keystrokes eliminate looking up the UNICODE for the insert * Message boxes describe usage and map the keyboard to the UNICODE characters *
+send fractions
+send Greek letters
+send math symbols
 
-* The script requires that you have the AHK program installed *
+to your text editor or word processor. Convenient keystrokes eliminate looking up the UNICODE for the insert. Message boxes describe usage and map the UNICODE characters to the keyboard.
 
-* However , you can just use the features of the script if you just .download and run. the executable file > AHK Fractions & Greek & Math.exe * You don't need to install the AHK program this way * If you link the file to your STARTUP folder in windows , the features will always be present and will-not conflict with other keystrokes (unless set in another program) *
+The script requires that you have .downloaded and installed. the AHK program available at > https://autohotkey.com/download/
+
+However , if you just want to use the features of this script , you don't need to install the AHK program ; just run the executable version:
+
+AHK Fractions & Greek & Math.exe
+
+You don't need to install this executable , just run it. If you link the file to your STARTUP folder in windows , the features will always be present and will-not conflict with other keystrokes (unless set in another program).
